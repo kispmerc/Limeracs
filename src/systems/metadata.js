@@ -1,6 +1,6 @@
 /**
  * Temporary metadata attached to objects/entities/players by ID
- * Unlike storage, this data only lives in memory and is not persistent.
+ * Unlike storage, this data only lives in memory and is not persistent. soo wtf is that
  */
 
 const store = new Map();

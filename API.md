@@ -296,5 +296,5 @@ are not preserved), `merge` (shallow), `pick`, `omit`.
 - `isReady()`
 - `getVersion()`
 
-SUNDOWN LIB calls `boot` once for itself on import; consuming modules do
+Limeracs LIB calls `boot` once for itself on import; consuming modules do
 not need to call it.

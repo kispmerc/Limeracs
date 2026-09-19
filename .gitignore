@@ -1,6 +1,46 @@
+# Dependencies
 node_modules/
-*.log
-.vscode/
+
+# Build output
 dist/
-*.mcaddon
-*.mcpack
+build/
+out/
+
+# Test / coverage
+coverage/
+
+# Logs
+*.log
+logs/
+
+# Runtime / generated data
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Archives
+*.zip
+
+# Minecraft / local development
+worlds/
+development_behavior_packs/

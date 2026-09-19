@@ -10,7 +10,7 @@ All members below are reachable from `Lib`.
 
 ## Lib.version
 
-`string` - current SUNDOWN LIB version, e.g. `"1.0.0"`.
+`string` - current Limeracs LIB version, e.g. `"1.0.0"`.
 
 ## Lib.module
 

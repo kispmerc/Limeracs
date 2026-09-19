@@ -70,4 +70,4 @@ function flush(startupEvent) {
 }
 
 export const commandApi = { register, list };
-export const commandInternal = { flush };'
+export const commandInternal = { flush };
